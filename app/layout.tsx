@@ -4,7 +4,7 @@ import './globals.css'
 export const metadata: Metadata = {
   title: 'Dinka Family App',
   description: 'A beautiful app to connect, celebrate, and preserve Dinka heritage with your family.',
-  generator: 'Pixel Pulse Labs', // or your brand name
+  generator: '', // or your brand name
   openGraph: {
     title: 'Dinka Family App',
     description: 'A beautiful app to connect, celebrate, and preserve Dinka heritage with your family.',
