@@ -3,8 +3,7 @@
 import { useState } from "react"
 import { Button } from "@/components/ui/button"
 import { ChevronRight, TreePine, Users, Heart } from "lucide-react"
-import { DeveloperCredit } from "@/components/developer-credit"
-
+import { DeveloperCredit } from "@/components/developer_credit"
 const onboardingData = [
   {
     id: 1,
